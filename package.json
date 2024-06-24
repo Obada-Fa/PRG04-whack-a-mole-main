@@ -1,0 +1,16 @@
+{
+  "name": "wie-is-de-mol",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir=docs --base=./"
+  },
+  "devDependencies": {
+    "vite": "^5.2.9"
+  },
+  "dependencies": {
+    "excalibur": "^0.29.1"
+  }
+}
